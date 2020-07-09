@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**brpaz/brpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Bruuno Paz and I am a Web Engineer from Porto, Portugal.
 
-Here are some ideas to get you started:
+Currently working at [Jumia](https://group.jumia.com/) as a Backend Senior Web Engineer on JumiaPay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Golang
+* PHP / Symfony
+* Java
+* Javascript
+* NodeJS
+* Typescript
+
+
+## Hobbies
+
+Sports, TV Shows, 
+
+## 📫 Contacts
+
+* Website: https://brunopaz.dev
+* Twitter: [@brunopaz88](https://twitter.com/brunopaz88)
