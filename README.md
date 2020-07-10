@@ -52,12 +52,12 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 
 ---
 
-## 🤾🏼‍♂️ Hobbies
+## 🌅 Hobbies
 
 * ⚽ Sports (Playing, Watching and following FC Porto, everywhere 🔵⚪!)
 * 📺 TV Shows
-* 🏃 Walking/Jogging outside
-* 🧑🏻‍🤝‍🧑🏽 - Being with Friends 
+* 🏃 Walking/Jogging and other activities outside
+* 🧑🏻‍🤝‍🧑🏽 - Being with Friends (Dinners, etc)
 
 ---
 
