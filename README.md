@@ -22,7 +22,7 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
 
 Currently, I work as Backend Engineer at [JumiaPay](https://pay.jumia.com.ng). My work is mostly developing APIs for the JumiaPay "Business Area" as well as general maintenance of the platform. The core stack is Golang and Java for the Backend, MySQL as Data store. Memcached and Couchbase for Caching.
 
-Outside of work hours, I like to explore new things and do usefull stuff to improve my productivity and workflows. That´s why I have Open sourced more than 20 [Ulauncher Extensions](https://ext.ulauncher.io/), a Application Launcher for linux, including [ulauncher-github(https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
+Outside of work hours, I like to explore new things and do usefull stuff to improve my productivity and workflows. That´s why I have Open sourced more than 20 [Ulauncher Extensions](https://ext.ulauncher.io/), a Application Launcher for linux, including [ulauncher-github](https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
 
 I have also built some extensions for VS Code, like [vscode-devhints](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints), GitHub Acctions for [Hadolint](https://github.com/brpaz/hadolint-action) and [Container Structure Tests](https://github.com/brpaz/structure-tests-action) and other small Linux Apps like [notion-menubar](https://github.com/brpaz/notion-menubar).
 
@@ -52,7 +52,16 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 
 ---
 
-## 💰 Sponsorship
+## 🤾🏼‍♂️ Hobbies
+
+* ⚽ Sports (Playing, Watching and following FC Porto, everywhere 🔵⚪!)
+* 📺 TV Shows
+* 🏃 Walking/Jogging outside
+* 🧑🏻‍🤝‍🧑🏽 - Being with Friends 
+
+
+
+## 💰 Support me
 
 If any of my Open source work was usefull for you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
 
