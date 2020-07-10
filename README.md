@@ -1,4 +1,4 @@
-# 👋 About Me 
+## 👋 About Me 
 
 Hello!
 
@@ -14,7 +14,7 @@ Despite my experience or preferences, I always try to keep up to date with other
 
 I am eager to learn new things. Passionate about tech and programming in general, I have a deep interest in everything related to the Software Devlopment Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
 
-I believe in tech and programming as a way to improve people lives. Tech isolated from the "real world" doesnt make sense to me. I dont do riddles or coding challneges. I prefer to solve real people´s problems. 
+I believe in tech and programming as a way to improve people lives. Tech isolated from the "real world" doesnt make much sense to me.
 
 ---
 
@@ -22,7 +22,7 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
 
 Currently, I work as Backend Engineer at [JumiaPay](https://pay.jumia.com.ng). My work is mostly developing APIs for the JumiaPay "Business Area" as well as general maintenance of the platform. The core stack is Golang and Java for the Backend, MySQL as Data store. Memcached and Couchbase for Caching.
 
-Outside of work hours, I like to explore new things and do usefull stuff to improve my productivity. That´s why I have Open sourced more than 20 [Ulauncher Extensions](https://ext.ulauncher.io/), a Application Launcher for linux, including [ulauncher-github(https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
+Outside of work hours, I like to explore new things and do usefull stuff to improve my productivity and workflows. That´s why I have Open sourced more than 20 [Ulauncher Extensions](https://ext.ulauncher.io/), a Application Launcher for linux, including [ulauncher-github(https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
 
 I have also built some extensions for VS Code, like [vscode-devhints](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints), GitHub Acctions for [Hadolint](https://github.com/brpaz/hadolint-action) and [Container Structure Tests](https://github.com/brpaz/structure-tests-action) and other small Linux Apps like [notion-menubar](https://github.com/brpaz/notion-menubar).
 
@@ -36,30 +36,31 @@ I also like writting about my discoveries and tech in general. You can find my a
 
 ## :computer: Tech Stack
 
-I believe in always choosing the best technology for the job. Sometimes a more mature language is crucial. Others is a good opportunity to try something new.
-
 On my professional carreer I have worked a lot with: PHP, Symfony, Java, Golang, MySQL, ElasticSearch, Javascript, Docker, GitHub, Jenkins, Jira, AWS, and more.
 
 On a personal level, these are some among my favorites. I am far from being an expert of everything but I wrote at least one line of code on them.
 
-* **Backend:** - PHP/Symfony, Golang, Typescript with [NestJS](https://nestjs.com/)
-* **Frontend** - HTML, CSS, Javascript, [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Gridsome](https://gridsome.org/), [Tailwind](https://tailwindcss.com/)
-* **Databases** - PostgresSQL, Redis, ElasticSearch, FaunaDB
-* **Infrastucture:** - Linux, Google Cloud, DigitalOcean, Netlify, Kubernetes, Pulumi, Terraform, Ansible,
+* **Backend:** - PHP 7/Symfony, Golang, Typescript with NestJS
+* **Frontend** - HTML, CSS, Javascript, VueJS, NuxtJS, Gridsome, Tailwind
+* **Datastores** - PostgresSQL, Redis, ElasticSearch, FaunaDB
+* **Infrastucture:** - Linux, Kubernetes, Pulumi, Ansible
+* **Cloud Providers:** - Google Cloud, DigitalOcean, Cloudflare (DNS), Namecheap (Domain Registar), Netlify
 * **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code, Docker
-* **CMS** - Strapi/Directus
+* **Content Management** - Strapi/Directus
+
+You can also check my [uses](https://brunopaz.dev/uses/) page for a more detailed list of all things I use.
 
 ---
 
 ## 💰 Sponsorship
 
-If any of my Open source work was usefull for you, I would be glad to have some support. I will help me keep motivating in doing more Open Source stuff.
+If any of my Open source work was usefull for you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
 
 You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz).
 
-If you prefer, a one time donation you can [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV)
+If you prefer a one time donation, you can simple [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV).
 
-
+---
 
 ## :envelope: Contacts
 
