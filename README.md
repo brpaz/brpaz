@@ -42,13 +42,22 @@ On my professional carreer I have worked a lot with: PHP, Symfony, Java, Golang,
 
 On a personal level, these are some among my favorites. I am far from being an expert of everything but I wrote at least one line of code on them.
 
-**Backend:** - PHP/Symfony, Golang, Typescript with [NestJS](https://nestjs.com/)
-**Frontend** - HTML, CSS, Javascript, [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Gridsome](https://gridsome.org/), [Tailwind](https://tailwindcss.com/)
-**Databases** - PostgresSQL, Redis, ElasticSearch, FaunaDB
-**Infrastucture:** - Linux, Google Cloud, DigitalOcean, Kubernetes, Pulumi, Terraform, Ansible.
-**Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code, Docker
+* **Backend:** - PHP/Symfony, Golang, Typescript with [NestJS](https://nestjs.com/)
+* **Frontend** - HTML, CSS, Javascript, [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Gridsome](https://gridsome.org/), [Tailwind](https://tailwindcss.com/)
+* **Databases** - PostgresSQL, Redis, ElasticSearch, FaunaDB
+* **Infrastucture:** - Linux, Google Cloud, DigitalOcean, Netlify, Kubernetes, Pulumi, Terraform, Ansible,
+* **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code, Docker
+* **CMS** - Strapi/Directus
 
 ---
+
+## 💰 Sponsorship
+
+If any of my Open source work was usefull for you, I would be glad to have some support. I will help me keep motivating in doing more Open Source stuff.
+
+You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz).
+
+If you prefer, a one time donation you can [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV)
 
 
 
@@ -58,4 +67,4 @@ I am in many places online, but here are where I am most active. Feel free to co
 
 * [Website](https://brunopaz.dev)
 * [Twitter](https://twitter.com/brunopaz88)
-* [dev.to](https://dev.to/brpaz): My publications about multiple tech related topics
+* [dev.to](https://dev.to/brpaz)
