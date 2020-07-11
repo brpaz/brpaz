@@ -1,6 +1,4 @@
-## 👋 About Me 
-
-Hello!
+## 👋 Hello!
 
 My name is Bruuno Paz, and I am a Software Engineer from Porto, Portugal. 🇵🇹
 
