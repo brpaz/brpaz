@@ -34,19 +34,17 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
 
 ## :computer: Tech Stack
 
-I believe in always choosing the best technology for the the job, even if we need to get out of our comfort zone.
+These are my favorite tech stack for building all kinds of stuff.
 
-On my professional carreer I have worked mostly with: PHP, Symfony, Java, Golang, MySQL, ElasticSearch, Javascript, Docker, GitHub, Jenkins, Jira, AWS, and more.
-
-On a personal level, these are some among my favorites. I am far from being an expert of everything but I wrote at least one line of code on them.
-
-* **Backend:** - PHP 7/Symfony, Golang, Typescript with NestJS
+* **Backend:** - Golang, PHP 7/Symfony, Typescript with NestJS
 * **Frontend** - HTML, CSS, Javascript, VueJS, NuxtJS, Gridsome, Tailwind
+* **Scripting** - Golang/Python
 * **Datastores** - PostgresSQL, Redis, ElasticSearch, FaunaDB
-* **Infrastucture:** - Linux, Kubernetes, Pulumi, Ansible
+* **Infrastucture:** - Kubernetes, Pulumi, Ansible
 * **Cloud Providers:** - Google Cloud, DigitalOcean, Cloudflare (DNS), Namecheap (Domain Registar), Netlify
 * **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code, Docker
 * **Content Management** - Strapi/Directus
+* **Other** - Linux
 
 You can also check my [uses](https://brunopaz.dev/uses/) page for a more detailed list of all things I use.
 
