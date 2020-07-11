@@ -4,13 +4,11 @@ Hello!
 
 My name is Bruuno Paz, and I am a Software Engineer from Porto, Portugal. 🇵🇹
 
-My biggest passion is Web Development and I am on the field professionaly since 2011. Started in a small startup called **ueb**, where I had the opportunity to grow a lot, since were only 5 devs building some very ambitious projects.
-
-Then moved on to [Jumia](https://group.jumia.com/), where I am since 2014 and I have worked in many projects from [Jumia Travel](https://travel.jumia.com) to [JumiaPay](https://pay.jumia.com), using a wide range of technologies.
-
-The technologies I have more experience are **PHP**, **Symfony** and **Golang**. Professionally also working atm with Java and looking into Typescript.
+I am on the field professionaly since 2011. Started in a small startup called **ueb**, and now working at [Jumia](https://group.jumia.com/).
 
 I am eager to learn new things. Passionate about tech and programming in general, I have a deep interest in everything related to the Software Devlopment Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
+
+The technologies I am mostly familiar with are **PHP**, **Symfony** and **Golang**. Professionally also working atm with Java and looking into Typescript.
 
 I believe in tech and programming as a way to improve people lives. Tech isolated from the "real world" doesnt make much sense to me.
 
