@@ -65,9 +65,7 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 
 If any of my Open source work was usefull for you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
 
-You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz).
-
-If you prefer a one time donation, you can simple [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV).
+You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you prefer a one time donation, you can [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV).
 
 ---
 
