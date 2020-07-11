@@ -71,6 +71,5 @@ You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
-* [Website](https://brunopaz.dev)
-* [Twitter](https://twitter.com/brunopaz88)
-* [dev.to](https://dev.to/brpaz)
+* [Website](https://brunopaz.dev) | [Twitter](https://twitter.com/brunopaz88) | [dev.to](https://dev.to/brpaz)
+
