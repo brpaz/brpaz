@@ -12,7 +12,7 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
 
 ---
 
-## 👨‍💻 What I do
+### 👨‍💻 What I do
 
 * :briefcase: **Backend Engineer at [JumiaPay](https://pay.jumia.com.ng)** 
   * My work is mostly developing APIs for the JumiaPay "Business Area" as well as general maintenance of the platform. The core stack is Golang and Java for the Backend.
@@ -30,7 +30,7 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
 
 ---
 
-## :computer: Tech Stack
+### :computer: Tech Stack
 
 These are my favorite tech stack for building all kinds of stuff.
 
@@ -48,7 +48,7 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 
 ---
 
-## 🌅 Hobbies
+### 🌅 Hobbies
 
 * ⚽ Sports (Playing, Watching and following FC Porto, everywhere 🔵⚪!)
 * 📺 TV Shows
@@ -57,7 +57,7 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 
 ---
 
-## 💰 Support me
+### 💰 Support me
 
 If any of my Open source work was usefull for you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
 
@@ -65,7 +65,7 @@ You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you
 
 ---
 
-## :envelope: Contacts
+### :envelope: Contacts
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
