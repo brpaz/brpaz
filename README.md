@@ -31,19 +31,17 @@ I believe in tech and programming as a way to improve people lives and thsat peo
 
 These are my favorite tech stack for building all kinds of stuff.
 
-* **Backend:** - Golang, PHP 7/Symfony, Typescript with NestJS
-* **Frontend** - HTML/CSS, Javascript, VueJS, NuxtJS, Tailwind CSS
+* **Backend:** - Golang, PHP 7/Symfony
+* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Svelte, Eleventy
 * **Scripting** - Golang, Python
-* **Datastores** - PostgresSQL, Redis, ElasticSearch, FaunaDB
-* **Infrastucture:** - Kubernetes, Pulumi, Ansible
-* **Cloud Providers:** - Google Cloud, DigitalOcean, Cloudflare (DNS), Namecheap (Domain Registar), Netlify
+* **Datastores** - PostgresSQL, Redis, ElasticSearch
+* **Infrastucture:** -  Docker, Kubernetes, Terraform, Ansible
+* **Cloud Providers:** - Google Cloud, DigitalOcean, Hetzner, Cloudflare (DNS, Workers, Pages ...)
 * **Storage** - Google Cloud Storage, Cloudinary
-* **Monitoring** -  Phrometheus, Grafana, UptimeRobot, Loki, ELK Stack
-* **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code, Docker
-* **Content Management** - Directus, Netlify CMS, Contentfull
+* **Monitoring** -  Phrometheus, Grafana, UptimeRobot, Loki
+* **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code
+* **Content Management** - Directus, Netlify CMS
 * **Other** - Linux
-
-You can also check my [uses](https://brunopaz.dev/uses/) page for a more detailed list of all things I use.
 
 ---
 
