@@ -2,13 +2,11 @@
 
 My name is Bruuno Paz, and I am a Software Engineer from Porto, Portugal. 🇵🇹
 
-I am on the field professionaly since 2011. Started in a small startup called **ueb**, and now working at [Jumia](https://group.jumia.com/).
+I am eager to learn new things and I have a deep interest in everything related to the Software Devlopment Lifecycle like Engineering practices, Software Quality, CI/CD, DevOps and Automation.
 
-I am eager to learn new things. Passionate about tech and programming in general, I have a deep interest in everything related to the Software Devlopment Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
+The technologies I am mostly familiar with are **PHP**, **Symfony** and **Golang**. Also have some expeirnece with NodeJS and Java, but I believe in using whatever tech stack is more appropriate to get the job done.
 
-The technologies I am mostly familiar with are **PHP**, **Symfony** and **Golang**. Professionally also working atm with Java and looking into Typescript.
-
-I believe in tech and programming as a way to improve people lives. Tech isolated from the "real world" doesnt make much sense to me.
+I believe in tech and programming as a way to improve people lives and thsat people should always at the center of everything we do as Software Engineers.
 
 ---
 
@@ -21,8 +19,7 @@ I believe in tech and programming as a way to improve people lives. Tech isolate
   * [Ulauncher Extensions](https://ext.ulauncher.io/) - [ulauncher-github](https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
   * GitHub Actions: [Hadolint](https://github.com/brpaz/hadolint-action), [Container Structure Tests](https://github.com/brpaz/structure-tests-action) ...
   * VS Code Extensions: [DevHints](https://marketplace.visualstudio.com/items?itemName=brpaz.devhints), [Contextual Snips](https://github.com/brpaz/vscode-contextual-snips)
-  * Other productivity tools: [notion-menubar](https://github.com/brpaz/notion-menubar). 
-  
+
 * ✍️ **Writting**
   * I like writting about my discoveries and tech in general. You can find my articles on [Dev](https://dev.to/brpaz).
 * 📚 **Learning**: Kubernetes, NuxtJS
@@ -55,7 +52,7 @@ You can also check my [uses](https://brunopaz.dev/uses/) page for a more detaile
 * ⚽ Sports (Playing, Watching and following FC Porto, everywhere 🔵⚪!)
 * 📺 TV Shows
 * 🏃 Walking/Jogging and other activities outside
-* 🧑🏻‍🤝‍🧑🏽 - Being with Friends (Dinners, etc)
+* 🧑🏻‍🤝‍🧑🏽 Being with Friends (Dinners, etc)
 
 ---
 
