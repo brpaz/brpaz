@@ -31,8 +31,8 @@ I believe in tech and programming as a way to improve people lives and thsat peo
 
 These are my favorite tech stack for building all kinds of stuff.
 
-* **Backend:** - Golang, PHP 7/Symfony
-* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Svelte, Eleventy
+* **Backend:** - Golang, PHP 7/Symfony, TypeScript
+* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Svelte, Astro
 * **Scripting** - Golang, Python
 * **Datastores** - PostgresSQL, Redis, ElasticSearch
 * **Infrastucture:** -  Docker, Kubernetes, Terraform, Ansible
@@ -66,5 +66,5 @@ You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
-* [Website](https://brunopaz.dev) | [Twitter](https://twitter.com/brunopaz88) | [dev.to](https://dev.to/brpaz)
+* [Website](https://brunopaz.dev) | [Email](oss@brunopaz.dev)
 
