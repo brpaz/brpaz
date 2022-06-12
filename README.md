@@ -42,7 +42,8 @@ These are my favorite tech stack for building all kinds of stuff.
 * **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code
 * **Content Management** - Directus, Netlify CMS
 * **Other** - Linux
--
+
+---
 
 ### 🌅 Hobbies
 
