@@ -4,9 +4,9 @@ My name is Bruuno Paz, and I am a Software Engineer from Porto, Portugal. 🇵�
 
 I am eager to learn new things and I have a deep interest in everything related to the Software Devlopment Lifecycle like Engineering practices, Software Quality, CI/CD, DevOps and Automation.
 
-The technologies I am mostly familiar with are **PHP**, **Symfony** and **Golang**. Also have some expeirnece with NodeJS and Java, but I believe in using whatever tech stack is more appropriate to get the job done.
+The technologies I am mostly familiar with are **PHP** (with **Symfony** framework) and **Golang**. Also have working experience with Java and personal interest in NodeJS and Typescript. I believe in using whatever tech stack is more appropriate to get the job done.
 
-I believe in tech and programming as a way to improve people lives and thsat people should always at the center of everything we do as Software Engineers.
+I strongly believe in tech and programming as a way to improve people lives and that´s my main focus.
 
 ---
 
@@ -22,7 +22,7 @@ I believe in tech and programming as a way to improve people lives and thsat peo
 
 * ✍️ **Writting**
   * I like writting about my discoveries and tech in general. You can find my articles on [Dev](https://dev.to/brpaz).
-* 📚 **Learning**: Kubernetes, NuxtJS
+* 📚 **Learning**: Kubernetes, NuxtJS, NestJS
 * 🚧 **Next projects** Build my own SaaS, from "Idea to production". Still looking for a good idea.
 
 ---
@@ -32,7 +32,7 @@ I believe in tech and programming as a way to improve people lives and thsat peo
 These are my favorite tech stack for building all kinds of stuff.
 
 * **Backend:** - Golang, PHP 7/Symfony, TypeScript
-* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Svelte, Astro
+* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Astro
 * **Scripting** - Golang, Python
 * **Datastores** - PostgresSQL, Redis, ElasticSearch
 * **Infrastucture:** -  Docker, Kubernetes, Terraform, Ansible
@@ -43,7 +43,7 @@ These are my favorite tech stack for building all kinds of stuff.
 * **Content Management** - Directus, Netlify CMS
 * **Other** - Linux
 
----
+-
 
 ### 🌅 Hobbies
 
@@ -62,7 +62,7 @@ You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you
 
 ---
 
-### :envelope: Contacts
+### :envelope: Get in touch
 
 I am in many places online, but here are where I am most active. Feel free to contact me.
 
