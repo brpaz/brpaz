@@ -12,8 +12,8 @@ I strongly believe in tech and programming as a way to improve people lives and 
 
 ### 👨‍💻 What I do
 
-* :briefcase: **Backend Engineer at [JumiaPay](https://pay.jumia.com.ng)** 
-  * My work is mostly developing APIs for the JumiaPay "Business Area" as well as general maintenance of the platform. The core stack is Golang and Java for the Backend.
+* :briefcase: **Tech Lead** at [SWORD Health](https://swordhealth.com/). Former Senior Web Engineer and Engineering manager at [JumiaPay](https://pay.jumia.com.ng)
+
 
 * 🌍 **Open Source**
   * [Ulauncher Extensions](https://ext.ulauncher.io/) - [ulauncher-github](https://github.com/brpaz/ulauncher-github), [ulauncher-brotab](https://ext.ulauncher.io/-/github-brpaz-ulauncher-brotab) and many more.
@@ -27,18 +27,18 @@ I strongly believe in tech and programming as a way to improve people lives and 
 
 ---
 
-### :computer: Tech Stack
+### :computer: Favorite Tech Stack
 
 These are my favorite tech stack for building all kinds of stuff.
 
-* **Backend:** - Golang, PHP 7/Symfony, TypeScript
-* **Frontend** - VueJS, NuxtJS, Tailwind CSS, Astro
+* **Backend:** - Golang, PHP (Symfony Framework), NestJS
+* **Frontend** - VueJS, NuxtJS, Astro (static sites) and Tailwind CSS
 * **Scripting** - Golang, Python
 * **Datastores** - PostgresSQL, Redis, ElasticSearch
-* **Infrastucture:** -  Docker, Kubernetes, Terraform, Ansible
+* **Infrastucture:** -  Docker, Kubernetes, Terraform
 * **Cloud Providers:** - Google Cloud, DigitalOcean, Hetzner, Cloudflare (DNS, Workers, Pages ...)
 * **Storage** - Google Cloud Storage, Cloudinary
-* **Monitoring** -  Phrometheus, Grafana, UptimeRobot, Loki
+* **Observability** -  Phrometheus, Grafana stack (Grafana, Loki and Tempo)
 * **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code
 * **Content Management** - Directus, Netlify CMS
 * **Other** - Linux
