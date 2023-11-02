@@ -2,11 +2,11 @@
 
 My name is Bruuno Paz, and I am a Software Engineer from Porto, Portugal. 🇵🇹
 
-I am eager to learn new things and I have a deep interest in everything related to the Software Devlopment Lifecycle like Engineering practices, Software Quality, CI/CD, DevOps and Automation.
+I am passionate about everything tech and I am eager to learn new things. I have a particular interest in everything related to Engineering practices, CI/CD, DevOps, automation, and more recently Web3 and decentralized Web.
 
-The technologies I am mostly familiar with are **PHP** (with **Symfony** framework) and **Golang**. Also have working experience with Java and personal interest in NodeJS and Typescript. I believe in using whatever tech stack is more appropriate to get the job done.
+The languages I am mostly familiar with are **Golang**, **PHP (Symfony Framework)** and **Javascript/NodeJS**. Also have some professional experience with **Java**. Want to get my hands dirty with **Rust** one day.
 
-I strongly believe in tech and programming as a way to improve people lives and that´s my main focus.
+I strongly believe in tech and programming as a way to improve people's lives and that´s my main focus.
 
 ---
 
@@ -32,22 +32,22 @@ I strongly believe in tech and programming as a way to improve people lives and 
 These are my favorite tech stack for building all kinds of stuff.
 
 * **Backend:** - Golang, PHP (Symfony Framework), NestJS
-* **Frontend** - VueJS, NuxtJS, Astro (static sites) and Tailwind CSS
+* **Frontend** - NuxtJS, Astro (static sites) and Tailwind CSS
 * **Scripting** - Golang, Python
 * **Datastores** - PostgresSQL, Redis, ElasticSearch
-* **Infrastucture:** -  Docker, Kubernetes, Terraform
-* **Cloud Providers:** - Google Cloud, DigitalOcean, Hetzner, Cloudflare (DNS, Workers, Pages ...)
+* **Infrastucture:** -  Docker, Kubernetes, Terraform, Ansible
+* **Cloud Providers:** - Google Cloud, DigitalOcean, Hetzner, Cloudflare
 * **Storage** - Google Cloud Storage, Cloudinary
-* **Observability** -  Phrometheus, Grafana stack (Grafana, Loki and Tempo)
+* **Observability** -  Prometheus, Grafana stack (Grafana, Loki and Tempo)
 * **Tools:** - GitHub, GitLab, JetBrains IDEs, VS Code
-* **Content Management** - Directus, Netlify CMS
+* **Content Management** - Strapi
 * **Other** - Linux
 
 ---
 
 ### 🌅 Hobbies
 
-* ⚽ Sports (Playing, Watching and following FC Porto, everywhere 🔵⚪!)
+* ⚽ Sports (Playing, Watching, and following FC Porto, everywhere 🔵⚪!)
 * 📺 TV Shows
 * 🏃 Walking/Jogging and other activities outside
 * 🧑🏻‍🤝‍🧑🏽 Being with Friends (Dinners, etc)
@@ -56,9 +56,11 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ### 💰 Support me
 
-If any of my Open source work was usefull for you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
+If any of my Open source work was useful to you, I would be glad to have your support. It will help me keep motivated to keep sharing stuff with the community.
 
-You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you prefer a one time donation, you can [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV).
+You can Sponsor me here on [GitHub](https://github.com/sponsors/brpaz) or if you prefer a one-time donation, you can [Buy me a Coffee](https://www.buymeacoffee.com/Z1Bu6asGV).
+
+
 
 ---
 
